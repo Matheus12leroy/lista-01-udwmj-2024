@@ -1,0 +1,7 @@
+<?php
+
+$mensagem = "Eai tudo bem?!";
+
+
+echo $mensagem;
+?>
